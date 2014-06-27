@@ -5,9 +5,9 @@
 
 
 '''
-Creates surfaces based on defined node sets on parts in Abaqus.
+Creates surfaces based on defined node-sets on parts in Abaqus.
 
-For each node set defined for each part, a surface containing all the nods is created. 
+For each node set defined for a part, a seperate surface containing all the nods is created. 
 '''
 
 
